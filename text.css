@@ -7,7 +7,6 @@ p
 h1
 {
 	color: white;
-	text-shadow: 2px 2px 0px #000000;
-	font-family: consolas;
-	text-shadow: 0 0 3px #000000, 0 0 5px #FFFFFF;
+	text-shadow: 1px 1px 0px #000000;
+	font-family: consolas;	
 }
