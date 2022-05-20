@@ -1,0 +1,13 @@
+p
+{
+	color: white;
+	font-family: consolas;
+	text-shadow: 5px 5px 10px #000000, 0 0 1px #FFFFFF;
+}
+h1
+{
+	color: white;
+	text-shadow: 2px 2px 0px #000000;
+	font-family: consolas;
+	text-shadow: 0 0 3px #000000, 0 0 5px #FFFFFF;
+}

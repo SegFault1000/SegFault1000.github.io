@@ -1,0 +1,32 @@
+a
+{
+	color: aqua;
+	text-decoration: none;
+	font-weight: bold;		
+	animation-name: linkHoverOff;
+	animation-duration: 1s;
+	animation-fill-mode: forwards;
+}
+
+a:hover
+{
+	animation-name: linkHover;
+	animation-duration: 1s;
+	animation-fill-mode: forwards;
+}
+a:hover:off
+{
+	color: rgb(199,255,255);
+	
+}
+
+
+@keyframes linkHover {
+	from{ color: aqua; }
+	to{ color: rgb(199, 255, 255);}
+}
+@keyframes linkHoverOff {
+	from{ color: rgb(199, 255, 255);; }
+	to{ color: aqua; }
+}
+
