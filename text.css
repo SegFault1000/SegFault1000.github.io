@@ -1,12 +1,14 @@
 p
 {
-	color: white;
+	color: rgb(159, 213, 245);
+	font-size: 17px;
 	font-family: consolas;
-	text-shadow: 5px 5px 10px #000000, 0 0 1px #FFFFFF;
+	text-shadow: 2px 2px 10px #000000, 0 0 1px #FFFFFF;
 }
 h1
 {
-	color: white;
+	color: rgb(0, 162, 255);
+	text-decoration-color: rgb(0, 162, 255);
 	text-shadow: 1px 1px 0px #000000;
-	font-family: consolas;	
+	font-family: consolas;
 }
