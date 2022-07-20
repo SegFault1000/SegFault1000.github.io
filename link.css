@@ -27,6 +27,6 @@ a:hover:off
 }
 @keyframes linkHoverOff {
 	from{ color: rgb(199, 255, 255);; }
-	to{ color: aqua; }
+	to{ color: rgb(0, 162, 255); }
 }
 
